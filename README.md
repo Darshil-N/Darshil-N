@@ -1,193 +1,241 @@
-<div id="top"></div>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Darshil-N">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Darshil+N!;A+Developer+and+Tech+Enthusiast.;.Building+Intelligent+Solutions." alt="Animated greeting" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Darshil%20Nathwani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Machine-Learning&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/Darshil-N">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Solutions;Full+Stack+%7C+AI+%7C+Machine+Learning;RAG+Systems+%7C+Multi-Agent+Frameworks;Hackathon+Builder+%E2%9A%A1+Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Darshil-N">
+  <img src="https://komarev.com/ghpvc/?username=Darshil-N&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Darshil-N?tab=followers">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Darshil-N?style=flat-square&label=Followers&color=0e75b6">
+</a>
+<a href="https://www.linkedin.com/in/darshil-nathwani-bba698307/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:darshilnathwani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-darshilnathwani@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+### 🧠 About Me
+
+```python
+darshil = {
+    "role"       : "AI & Full Stack Developer",
+    "focus"      : ["AI Systems", "Multi-Agent Frameworks", "RAG Pipelines", "Web3"],
+    "currently"  : "Full Stack Developer Intern @ Indian Chess Academy (Vina EduTech)",
+    "research"   : "Drishti-AI — NL-driven campus incident analysis via DeepSeek Text-to-SQL",
+    "education"  : "B.E. Information Science @ DSCE, Bengaluru",
+    "interests"  : ["Agentic AI", "Cybersecurity", "Machine Learning", "Scalable Systems"],
+    "mantra"     : "Ship fast. Learn always. Build with impact."
+}
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00d4ff&height=3&section=header" width="100%"/>
+
+### ⚙️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,sql&theme=dark" />
 </p>
 
-<br>
+**AI / ML**
 
-<p align="center">
-  <a href="https://github.com/Darshil-N">
-    <img src="https://komarev.com/ghpvc/?username=Darshil-N&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Darshil-N?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Darshil-N?style=social&label=Follow&maxAge=2592000">
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-0E75B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+**Frameworks & Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind&theme=dark" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgresql,mysql,sqlite,supabase&theme=dark" />
+  <img src="https://img.shields.io/badge/ChromaDB-1B4D3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+**Tools & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,jupyter&theme=dark" />
+</p>
+
+**Security**
+
+<p>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semgrep-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLi%20Detection-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Command%20Injection%20Prevention-8B0000?style=for-the-badge"/>
+</p>
+
+**Blockchain**
+
+<p>
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NFC%20Integration-005C99?style=for-the-badge"/>
 </p>
 
 ---
 
-### About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00d4ff&height=3" width="100%"/>
 
-<p align="left">
-  Hello world! I'm a developer passionate about the entire tech ecosystem, from low-level systems to high-level data strategy. My core mission is to leverage data and cloud technologies to build innovative, scalable, and intelligent applications. I thrive on solving complex problems, whether it's related to AI, data analytics, or scalable systems.
-</p>
+### 📊 GitHub Stats
 
-- **Innovating** with **Data Science** and **Cloud Computing** to build robust systems.
-- **Solving real-world problems** by extracting insights and building intelligent applications.
-- **Exploring** and **implementing** the latest in **AI, analytics, and scalable architectures**.
-- **Constantly** **learning** new technologies and **building** solutions.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Darshil-N&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=0e75b6&icon_color=00d4ff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshil-N&theme=tokyonight&hide_border=true&ring=0e75b6&fire=00d4ff&currStreakLabel=0e75b6" height="165"/>
 
-### My Tech Arsenal
+<br/>
 
-<p align="center">
-  My evolving tech stack, a reflection of my project work and continuous learning.
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshil-N&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&langs_count=8" height="150"/>
 
-#### Top Languages (Based on my repositories):
-
-<p align="center">
-  <a href="https://github.com/Darshil-N?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshil-N&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Darshil's Top Languages"/>
-  </a>
-</p>
-
-#### Tools, Frameworks, and Databases:
-
-<p align="center">
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### GitHub Activity & Stats
+### 🏆 Trophies
 
-<p align="center">
-  A glimpse into my coding journey and contributions.
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshil-N&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=191921" alt="Darshil-N's GitHub Stats" />
-  <br/>
-  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Darshil-N&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</div>
 
 ---
 
-### Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:00d4ff&height=3" width="100%"/>
 
-<p align="center">
-  Some of my key projects, showcasing my diverse skillset.
-</p>
+### 🚀 Featured Projects
 
-<table align="center" style="width:100%; border:none;">
+<table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NeroBot</h3>
-      <p align="center">
-        <a href="https://github.com/Darshil-N/NeroBot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=NeroBot&theme=dark&hide_border=false" alt="NeroBot" />
-        </a>
-      </p>
-      <p align="center">The core AI and Machine Learning components for the NeroBot project, focusing on intelligent decision-making.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Raahi</h3>
+      <h3 align="center">⛓️ Raahi — Blockchain Tourist Safety</h3>
       <p align="center">
         <a href="https://github.com/Darshil-N/Raahi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Raahi&theme=dark&hide_border=false" alt="Raahi" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Raahi&theme=tokyonight&hide_border=true" alt="Raahi"/>
         </a>
       </p>
-      <p align="center">A mobile application project developed using Kotlin, demonstrating modern Android development practices.</p>
+      <p align="center">
+        <b>Top 50 — SIH 2025</b> — Blockchain safety platform on Polygon using NFC smart-wristbands as digital IDs. Immutable incident logging via smart contracts with offline SMS fallback and real-time emergency response.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/NFC-005C99?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 Siddhi AI — Credit Scoring Platform</h3>
+      <p align="center">
+        <a href="https://github.com/Darshil-N/Siddhi-AI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Siddhi-AI&theme=tokyonight&hide_border=true" alt="Siddhi AI"/>
+        </a>
+      </p>
+      <p align="center">
+        AI credit scoring trained on <b>1.8M loan repayment records</b> using XGBoost achieving 96.8% accuracy. Analyzes alternative consumption data (utility bills, rentals) to enable secure digital lending for NBCFDC.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">GST Report Generator</h3>
+      <h3 align="center">🏥 Sanjeevani — ICU Diagnostic Assistant</h3>
       <p align="center">
-        <a href="https://github.com/Darshil-N/GST_Report_Generator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=GST_Report_Generator&theme=dark&hide_border=false" alt="GST_Report_Generator" />
+        <a href="https://github.com/Darshil-N/Sanjeevani" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Sanjeevani&theme=tokyonight&hide_border=true" alt="Sanjeevani"/>
         </a>
       </p>
-      <p align="center">A C++ based tool designed for efficient generation of Goods and Services Tax (GST) reports, streamlining financial processes.</p>
+      <p align="center">
+        Multi-agent ICU diagnostic system with Clinical NLP, Medical RAG, and predictive trend analysis. NFC hardware integration for secure, instant access to patient histories.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RAG-0E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/NFC-005C99?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">IPL Auction</h3>
+      <h3 align="center">🎙️ Kara-AI — Multimodal Interview Coach</h3>
       <p align="center">
-        <a href="https://github.com/Darshil-N/IPL_AUCTION" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=IPL_AUCTION&theme=dark&hide_border=false" alt="IPL_AUCTION" />
+        <a href="https://github.com/Darshil-N/Kara-AI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Kara-AI&theme=tokyonight&hide_border=true" alt="Kara-AI"/>
         </a>
       </p>
-      <p align="center">A C++ project simulating or managing aspects of the Indian Premier League (IPL) auction, showcasing algorithmic problem-solving.</p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ATM Module</h3>
       <p align="center">
-        <a href="https://github.com/Darshil-N/Atm_module" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Atm_module&theme=dark&hide_border=false" alt="Atm_module" />
-        </a>
+        Full-stack multimodal interview coach built in <b>24 hours at Hackverse</b>. Analyzes live video, audio, and speech to give objective feedback on eye contact, speaking pace, filler words, and content quality.
       </p>
-      <p align="center">A C++ backend module simulating core ATM functionalities, focusing on robust transaction handling.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Games</h3>
       <p align="center">
-        <a href="https://github.com/Darshil-N/Games" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshil-N&repo=Games&theme=dark&hide_border=false" alt="Games" />
-        </a>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google"/>
       </p>
-      <p align="center">A collection of various games implemented in C++, demonstrating fundamental programming concepts and game logic.</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  More projects are available on my <a href="https://github.com/Darshil-N?tab=repositories">GitHub Repositories</a>!
-</p>
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshil-N&theme=tokyo-night&hide_border=true&color=0e75b6&line=00d4ff&point=ffffff" width="100%"/>
+</div>
 
 ---
 
-### Let's Connect & Collaborate!
+### 🤝 Let's Connect
 
-<p align="center">
-  I'm always eager to connect with fellow developers, discuss new ideas, or explore collaboration opportunities. <br/> Feel free to reach out!
-</p>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/darshil-nathwani-bba698307/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:darshilnathwani@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Darshil-N" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-  
-  <a href="https://www.linkedin.com/in/darshil-nathwani-bba698307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:darshilnathwani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/><br/>
 
-<br>
-<div align="right">
-  <a href="#top">Back to top</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0e75b6&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 </div>

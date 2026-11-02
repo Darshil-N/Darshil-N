@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.in{opacity:0;animation:in 1s cubic-bezier(.2,.8,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+.ar{animation:ar 1.6s ease-in-out infinite}@keyframes ar{50%{transform:translate(5px,-5px)}}
+</style>
+<rect width="1200" height="110" fill="#0C0C0E"/>
+<g class="in"><text x="60" y="52" font-size="30" font-weight="900" fill="#F8FAFC" textLength="740" lengthAdjust="spacingAndGlyphs">I BUILD AI SYSTEMS AND PRODUCTION APPS.</text></g>
+<g class="in" style="animation-delay:.3s"><text x="62" y="86" font-size="13" font-weight="700" letter-spacing="4" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">THE FULL STORY LIVES ON MY PORTFOLIO</text>
+<g class="ar"><text x="540" y="88" font-size="20" font-weight="900" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">↗</text></g></g>
+<polygon points="1000,30 1030,30 1010,86 980,86" fill="#A3E635"/><polygon points="1050,30 1056,30 1036,86 1030,86" fill="#A3E635" opacity=".45"/>
+</svg>

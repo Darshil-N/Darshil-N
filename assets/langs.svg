@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230">
+<style>text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.n{opacity:0;animation:n .8s cubic-bezier(.2,.8,.2,1) forwards}@keyframes n{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.f{transform-box:fill-box;transform-origin:left;animation:f 1.2s cubic-bezier(.6,0,.2,1) both}@keyframes f{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.bar{transform-box:fill-box;transform-origin:top;animation:b 1s cubic-bezier(.6,0,.2,1) both}@keyframes b{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+.sw{animation:sw 6s cubic-bezier(.6,0,.3,1) 1.5s infinite}@keyframes sw{from{transform:translateX(-120px)}to{transform:translateX(600px)}}</style>
+<rect x=".5" y=".5" width="579" height="229" fill="#111114" stroke="#F8FAFC" stroke-opacity=".1"/>
+<rect class="bar" width="4" height="230" fill="#A3E635"/>
+<text x="36" y="34" font-size="11.5" font-weight="700" letter-spacing="3" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">TOP LANGUAGES</text>
+<g class="n" style="animation-delay:0.15s"><text x="36" y="82" font-size="12.5" font-weight="700" letter-spacing="1" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">TYPESCRIPT</text>
+<rect x="180" y="70" width="250" height="12" fill="#F8FAFC" opacity=".07"/>
+<rect class="f" style="animation-delay:0.4s" x="180" y="70" width="250.0" height="12" fill="#A3E635" opacity="1.00"/>
+<text x="544" y="82" text-anchor="end" font-size="12.5" font-weight="700" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">47.3%</text></g><g class="n" style="animation-delay:0.27s"><text x="36" y="110" font-size="12.5" font-weight="700" letter-spacing="1" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">PYTHON</text>
+<rect x="180" y="98" width="250" height="12" fill="#F8FAFC" opacity=".07"/>
+<rect class="f" style="animation-delay:0.52s" x="180" y="98" width="145.2" height="12" fill="#A3E635" opacity="0.87"/>
+<text x="544" y="110" text-anchor="end" font-size="12.5" font-weight="700" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">27.5%</text></g><g class="n" style="animation-delay:0.39s"><text x="36" y="138" font-size="12.5" font-weight="700" letter-spacing="1" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">JAVASCRIPT</text>
+<rect x="180" y="126" width="250" height="12" fill="#F8FAFC" opacity=".07"/>
+<rect class="f" style="animation-delay:0.64s" x="180" y="126" width="68.9" height="12" fill="#A3E635" opacity="0.74"/>
+<text x="544" y="138" text-anchor="end" font-size="12.5" font-weight="700" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">13.0%</text></g><g class="n" style="animation-delay:0.51s"><text x="36" y="166" font-size="12.5" font-weight="700" letter-spacing="1" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">KOTLIN</text>
+<rect x="180" y="154" width="250" height="12" fill="#F8FAFC" opacity=".07"/>
+<rect class="f" style="animation-delay:0.76s" x="180" y="154" width="32.3" height="12" fill="#A3E635" opacity="0.61"/>
+<text x="544" y="166" text-anchor="end" font-size="12.5" font-weight="700" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">6.1%</text></g><g class="n" style="animation-delay:0.63s"><text x="36" y="194" font-size="12.5" font-weight="700" letter-spacing="1" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">PLPGSQL</text>
+<rect x="180" y="182" width="250" height="12" fill="#F8FAFC" opacity=".07"/>
+<rect class="f" style="animation-delay:0.88s" x="180" y="182" width="13.6" height="12" fill="#A3E635" opacity="0.48"/>
+<text x="544" y="194" text-anchor="end" font-size="12.5" font-weight="700" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2.6%</text></g>
+<g class="sw"><polygon points="12,227 90,227 84,230 6,230" fill="#A3E635"/></g>
+</svg>

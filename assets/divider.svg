@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12">
-  <style>.b{animation:d 3.2s cubic-bezier(.6,0,.3,1) infinite}@keyframes d{from{transform:translateX(-300px)}to{transform:translateX(1200px)}}</style>
-  <rect y="5" width="1200" height="2" fill="#F8FAFC" opacity=".1"/>
-  <g class="b"><polygon points="12,3 300,3 288,9 0,9" fill="#A3E635"/></g>
-</svg>

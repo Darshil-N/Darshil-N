@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.in{opacity:0;animation:in 1s cubic-bezier(.2,.8,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
+.sl{animation:sl 7s cubic-bezier(.6,0,.3,1) infinite}@keyframes sl{from{transform:translateX(-300px)}to{transform:translateX(1500px)}}
+.pu{transform-box:fill-box;transform-origin:center;animation:pu 2.4s ease-in-out infinite}@keyframes pu{50%{transform:scale(1.6);opacity:.35}}
+</style>
+<rect width="1200" height="220" fill="#0C0C0E"/>
+<polygon points="0,0 1200,0 1200,8 0,8" fill="#A3E635"/>
+<g class="in"><text x="56" y="146" font-size="104" font-weight="900" fill="#A3E635" textLength="640" lengthAdjust="spacingAndGlyphs">SAY HELLO.</text></g>
+<g class="in" style="animation-delay:.4s"><text x="60" y="190" font-size="14" font-weight="700" letter-spacing="5" fill="#94A3B8" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">DARSHILNATHWANI@GMAIL.COM</text></g>
+<circle class="pu" cx="1140" cy="110" r="8" fill="#A3E635"/>
+<g class="sl" opacity=".05"><polygon points="60,8 120,8 60,220 0,220" fill="#fff"/></g>
+</svg>

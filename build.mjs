@@ -186,4 +186,21 @@ text{font-family:${FONT}}
 <circle class="pu" cx="1140" cy="110" r="8" fill="${LIME}"/>
 <g class="sl" opacity=".05"><polygon points="60,8 120,8 60,220 0,220" fill="#fff"/></g>
 </svg>`);
+/* ───────────── Link buttons ───────────── */
+for (const [id, label, hot] of [['email', 'EMAIL', true], ['linkedin', 'LINKEDIN', false], ['portfolio', 'PORTFOLIO', false]]) {
+  const bg = hot ? LIME : PANEL, fg = hot ? BG : FG, ac = hot ? BG : LIME;
+  out(`b-${id}.svg`, `<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76">
+<style>
+text{font-family:${FONT}}
+.ar{animation:ar 1.6s ease-in-out infinite}@keyframes ar{50%{transform:translateX(8px)}}
+.sw{animation:sw 4s cubic-bezier(.6,0,.3,1) infinite}@keyframes sw{from{transform:translateX(-80px)}to{transform:translateX(340px)}}
+.bd{stroke-dasharray:80 700;animation:bd 5s linear infinite}@keyframes bd{from{stroke-dashoffset:0}to{stroke-dashoffset:-780}}
+</style>
+<polygon points="16,2 298,2 284,74 2,74" fill="${bg}" ${hot ? '' : `stroke="${FG}" stroke-opacity=".16"`}/>
+<g class="sw" opacity="${hot ? 0.2 : 0.08}"><polygon points="20,2 50,2 38,74 8,74" fill="${hot ? BG : LIME}"/></g>
+<polygon class="bd" points="16,2 298,2 284,74 2,74" fill="none" stroke="${ac}" stroke-width="2.5"/>
+<text x="38" y="46" font-size="19" font-weight="900" letter-spacing="4" fill="${fg}">${label}</text>
+<g class="ar"><text x="244" y="47" font-size="22" font-weight="900" fill="${ac}" font-family="${MONO}">→</text></g>
+</svg>`);
+}
 console.log('built');

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76">
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.ar{animation:ar 1.6s ease-in-out infinite}@keyframes ar{50%{transform:translateX(8px)}}
+.sw{animation:sw 4s cubic-bezier(.6,0,.3,1) infinite}@keyframes sw{from{transform:translateX(-80px)}to{transform:translateX(340px)}}
+.bd{stroke-dasharray:80 700;animation:bd 5s linear infinite}@keyframes bd{from{stroke-dashoffset:0}to{stroke-dashoffset:-780}}
+</style>
+<polygon points="16,2 298,2 284,74 2,74" fill="#111114" stroke="#F8FAFC" stroke-opacity=".16"/>
+<g class="sw" opacity="0.08"><polygon points="20,2 50,2 38,74 8,74" fill="#A3E635"/></g>
+<polygon class="bd" points="16,2 298,2 284,74 2,74" fill="none" stroke="#A3E635" stroke-width="2.5"/>
+<text x="38" y="46" font-size="19" font-weight="900" letter-spacing="4" fill="#F8FAFC">LINKEDIN</text>
+<g class="ar"><text x="244" y="47" font-size="22" font-weight="900" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">→</text></g>
+</svg>

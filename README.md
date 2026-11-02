@@ -60,9 +60,9 @@
 
 <br/>
 
-<a href="mailto:darshilnathwani@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/darshil-nathwani-bba698307/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="https://darshilnathwani.netlify.app"><b>Portfolio</b></a>
+<a href="mailto:darshilnathwani@gmail.com"><img src="assets/b-email.svg" width="31%" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/darshil-nathwani-bba698307/"><img src="assets/b-linkedin.svg" width="31%" alt="LinkedIn"/></a>
+<a href="https://darshilnathwani.netlify.app"><img src="assets/b-portfolio.svg" width="31%" alt="Portfolio"/></a>
 
 <br/>
 

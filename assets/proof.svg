@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0C0C0E" stroke-opacity="0.07"/></pattern></defs>
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.pr{stroke-dasharray:741.4;stroke-dashoffset:741.4;transform:rotate(-90deg);transform-origin:200px 180px;animation:pr 2.2s cubic-bezier(.3,.7,.2,1) .3s forwards}@keyframes pr{to{stroke-dashoffset:51.9}}
+.st{opacity:0;animation:st .8s cubic-bezier(.2,.8,.2,1) forwards}@keyframes st{from{opacity:0;transform:translateY(34px)}to{opacity:1;transform:none}}
+.ul{transform-box:fill-box;transform-origin:left;animation:ul 1s cubic-bezier(.6,0,.2,1) both}@keyframes ul{from{transform:scaleX(0)}to{transform:scaleX(2.6)}}
+.sp{transform-origin:200px 180px;animation:sp 12s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
+</style>
+<rect width="1200" height="360" fill="#A3E635"/><rect width="1200" height="360" fill="url(#g)"/>
+<circle cx="200" cy="180" r="118" fill="none" stroke="#0C0C0E" stroke-opacity=".16" stroke-width="22"/>
+<circle class="pr" cx="200" cy="180" r="118" fill="none" stroke="#0C0C0E" stroke-width="22" stroke-linecap="butt"/>
+<g class="sp"><circle cx="200" cy="36" r="5" fill="#0C0C0E"/><circle cx="200" cy="180" r="145" fill="none" stroke="#0C0C0E" stroke-opacity=".4" stroke-dasharray="2 9"/></g>
+<text x="200" y="198" text-anchor="middle" font-size="62" font-weight="900" fill="#0C0C0E" textLength="150" lengthAdjust="spacingAndGlyphs">93%</text>
+<text x="200" y="226" text-anchor="middle" font-size="11.5" font-weight="800" letter-spacing="2" fill="#0C0C0E" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">NL-TO-SQL ACCURACY</text>
+<text x="200" y="246" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#0C0C0E" opacity=".65" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">DRISHTI-AI</text>
+<g class="st" style="animation-delay:0.4s">
+<text x="430" y="186" font-size="70" font-weight="900" fill="#0C0C0E" textLength="111" lengthAdjust="spacingAndGlyphs">1ST</text>
+<rect class="ul" style="animation-delay:0.8s" x="430" y="206" width="56" height="5" fill="#0C0C0E"/>
+<text x="430" y="244" font-size="11.5" font-weight="800" letter-spacing="1.5" fill="#0C0C0E" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">ICA HACKATHON WINNER</text>
+<text x="430" y="264" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#0C0C0E" opacity=".65" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">VINA EDUTECH · 2026</text></g><g class="st" style="animation-delay:0.65s">
+<text x="680" y="186" font-size="70" font-weight="900" fill="#0C0C0E" textLength="185" lengthAdjust="spacingAndGlyphs">1.8M+</text>
+<rect class="ul" style="animation-delay:1.05s" x="680" y="206" width="56" height="5" fill="#0C0C0E"/>
+<text x="680" y="244" font-size="11.5" font-weight="800" letter-spacing="1.5" fill="#0C0C0E" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">FINANCIAL RECORDS</text>
+<text x="680" y="264" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#0C0C0E" opacity=".65" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">SIDDHI AI · XGBOOST + SHAP</text></g><polygon points="658,70 662,70 642,290 638,290" fill="#0C0C0E" opacity=".35"/><g class="st" style="animation-delay:0.9s">
+<text x="930" y="186" font-size="70" font-weight="900" fill="#0C0C0E" textLength="222" lengthAdjust="spacingAndGlyphs">6 LIVE</text>
+<rect class="ul" style="animation-delay:1.3s" x="930" y="206" width="56" height="5" fill="#0C0C0E"/>
+<text x="930" y="244" font-size="11.5" font-weight="800" letter-spacing="1.5" fill="#0C0C0E" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">PRODUCTION PLATFORMS</text>
+<text x="930" y="264" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#0C0C0E" opacity=".65" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">WEB + PLAY STORE APPS</text></g><polygon points="908,70 912,70 892,290 888,290" fill="#0C0C0E" opacity=".35"/>
+</svg>

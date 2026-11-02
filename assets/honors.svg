@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.cd{opacity:0;animation:cd .7s cubic-bezier(.2,.8,.2,1) forwards}@keyframes cd{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
+.sh{animation:sh 6s ease-in-out infinite}@keyframes sh{0%{transform:translateX(-300px)}60%,100%{transform:translateX(1500px)}}
+</style>
+<rect width="1200" height="350" fill="#0C0C0E"/>
+<g class="cd" style="animation-delay:0s">
+<polygon points="14,10 390,10 376,166 0,166" fill="#A3E635" />
+<text x="32" y="80" font-size="44" font-weight="900" fill="#0C0C0E" textLength="234" lengthAdjust="spacingAndGlyphs">PUBLISHED</text>
+<text x="32" y="116" font-size="15" font-weight="800" fill="#0C0C0E">IEEE TENCON 2026</text>
+<text x="32" y="140" font-size="11" font-weight="700" letter-spacing="2" fill="#0C0C0E" opacity=".6" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">IEEE REGION 10 FLAGSHIP CONFERENCE</text>
+<text x="346" y="42" text-anchor="end" font-size="11" font-weight="800" letter-spacing="2" fill="#0C0C0E" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2026</text></g><g class="cd" style="animation-delay:0.12s">
+<polygon points="414,10 790,10 776,166 400,166" fill="#121216" stroke="#F8FAFC" stroke-opacity=".15"/>
+<text x="432" y="80" font-size="44" font-weight="900" fill="#A3E635" textLength="234" lengthAdjust="spacingAndGlyphs">1ST PLACE</text>
+<text x="432" y="116" font-size="15" font-weight="800" fill="#F8FAFC">INDIAN CHESS ACADEMY HACKATHON</text>
+<text x="432" y="140" font-size="11" font-weight="700" letter-spacing="2" fill="#F8FAFC" opacity=".6" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">VINA EDUTECH</text>
+<text x="746" y="42" text-anchor="end" font-size="11" font-weight="800" letter-spacing="2" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2026</text></g><g class="cd" style="animation-delay:0.24s">
+<polygon points="814,10 1190,10 1176,166 800,166" fill="#121216" stroke="#F8FAFC" stroke-opacity=".15"/>
+<text x="832" y="80" font-size="44" font-weight="900" fill="#A3E635" textLength="156" lengthAdjust="spacingAndGlyphs">TOP 10</text>
+<text x="832" y="116" font-size="15" font-weight="800" fill="#F8FAFC">NASIKO × DEVAARAMBH BUILDATHON</text>
+<text x="832" y="140" font-size="11" font-weight="700" letter-spacing="2" fill="#F8FAFC" opacity=".6" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">MICROSOFT REACTOR</text>
+<text x="1146" y="42" text-anchor="end" font-size="11" font-weight="800" letter-spacing="2" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2026</text></g><g class="cd" style="animation-delay:0.36s">
+<polygon points="14,180 390,180 376,336 0,336" fill="#121216" stroke="#F8FAFC" stroke-opacity=".15"/>
+<text x="32" y="250" font-size="44" font-weight="900" fill="#A3E635" textLength="156" lengthAdjust="spacingAndGlyphs">TOP 10</text>
+<text x="32" y="286" font-size="15" font-weight="800" fill="#F8FAFC">ATHERMEX HACKATHON</text>
+<text x="32" y="310" font-size="11" font-weight="700" letter-spacing="2" fill="#F8FAFC" opacity=".6" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">BMSCE × DSCE</text>
+<text x="346" y="212" text-anchor="end" font-size="11" font-weight="800" letter-spacing="2" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2026</text></g><g class="cd" style="animation-delay:0.48s">
+<polygon points="414,180 790,180 776,336 400,336" fill="#121216" stroke="#F8FAFC" stroke-opacity=".15"/>
+<text x="432" y="250" font-size="44" font-weight="900" fill="#A3E635" textLength="156" lengthAdjust="spacingAndGlyphs">TOP 20</text>
+<text x="432" y="286" font-size="15" font-weight="800" fill="#F8FAFC">CICADA HACKATHON</text>
+<text x="432" y="310" font-size="11" font-weight="700" letter-spacing="2" fill="#F8FAFC" opacity=".6" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">150+ TEAMS · ATRIA UNIVERSITY</text>
+<text x="746" y="212" text-anchor="end" font-size="11" font-weight="800" letter-spacing="2" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2026</text></g><g class="cd" style="animation-delay:0.6s">
+<polygon points="814,180 1190,180 1176,336 800,336" fill="#121216" stroke="#F8FAFC" stroke-opacity=".15"/>
+<text x="832" y="250" font-size="44" font-weight="900" fill="#A3E635" textLength="156" lengthAdjust="spacingAndGlyphs">TOP 25</text>
+<text x="832" y="286" font-size="15" font-weight="800" fill="#F8FAFC">GOOGLE DEEPMIND HACKATHON</text>
+<text x="832" y="310" font-size="11" font-weight="700" letter-spacing="2" fill="#F8FAFC" opacity=".6" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">GOOGLE DEEPMIND BANGALORE</text>
+<text x="1146" y="212" text-anchor="end" font-size="11" font-weight="800" letter-spacing="2" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">2026</text></g>
+<g class="sh" opacity=".07"><polygon points="60,0 100,0 60,350 20,350" fill="#fff"/></g>
+</svg>

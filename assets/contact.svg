@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#F8FAFC" stroke-opacity="0.045"/></pattern></defs>
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.in{opacity:0;animation:in 1s cubic-bezier(.2,.8,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateY(60px)}to{opacity:1;transform:none}}
+.sl{animation:sl 5s cubic-bezier(.6,0,.3,1) infinite}@keyframes sl{from{transform:translateX(-400px)}to{transform:translateX(1500px)}}
+.pu{transform-box:fill-box;transform-origin:center;animation:pu 2.2s ease-in-out infinite}@keyframes pu{50%{transform:scale(1.5);opacity:.4}}
+.sp{transform-origin:1090px 170px;animation:sp 14s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
+</style>
+<rect width="1200" height="340" fill="#0C0C0E"/><rect width="1200" height="340" fill="url(#g)"/>
+<polygon points="0,0 1200,0 1200,10 0,10" fill="#A3E635"/>
+<text x="50" y="62" font-size="12" font-weight="800" letter-spacing="5" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">✦ END OF FILE  /  NEXT STEP</text>
+<g class="in"><text x="46" y="236" font-size="190" font-weight="900" fill="#A3E635" textLength="1010" lengthAdjust="spacingAndGlyphs">SAY HELLO.</text></g>
+<g class="in" style="animation-delay:.5s"><text x="52" y="298" font-size="16" font-weight="700" letter-spacing="3" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">DARSHILNATHWANI@GMAIL.COM</text></g>
+<g class="sl" opacity=".16"><polygon points="60,10 130,10 70,340 0,340" fill="#F8FAFC"/></g>
+<g class="sp" fill="none" stroke="#A3E635" stroke-opacity=".7"><circle cx="1090" cy="170" r="70" stroke-dasharray="3 10"/></g>
+<circle class="pu" cx="1090" cy="170" r="9" fill="#A3E635"/>
+</svg>

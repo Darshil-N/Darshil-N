@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#F8FAFC" stroke-opacity="0.045"/></pattern></defs>
+<style>
+text{font-family:Syne,'Arial Black',Impact,'Segoe UI',sans-serif}
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateX(-60px)}to{opacity:1;transform:none}}
+.tg{animation:tg 1.1s cubic-bezier(.2,.8,.2,1) both}@keyframes tg{from{transform:translateX(308px)}to{transform:none}}
+.ar{animation:ar 1.5s ease-in-out infinite}@keyframes ar{50%{transform:translateX(9px)}}
+.sw{animation:sw 4.5s cubic-bezier(.6,0,.3,1) infinite}@keyframes sw{from{transform:translateX(-300px)}to{transform:translateX(1300px)}}
+</style>
+<rect width="1200" height="230" fill="#0C0C0E"/><rect width="1200" height="230" fill="url(#g)"/>
+<text class="in" x="26" y="188" font-size="190" font-weight="900" fill="none" stroke="#A3E635" stroke-opacity="0.55" stroke-width="2" textLength="196" lengthAdjust="spacingAndGlyphs">03</text>
+<g class="in" style="animation-delay:.2s">
+<text x="252" y="104" font-size="60" font-weight="900" fill="#F8FAFC" textLength="420" lengthAdjust="spacingAndGlyphs">STRENGTHKRAFT</text>
+<text x="254" y="136" font-size="13" font-weight="800" letter-spacing="3" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">ATHLETIC TRAINING PLATFORM</text>
+<text x="254" y="186" font-size="13" font-weight="700" letter-spacing="2" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">REACT NATIVE  /  REACT  /  NODE.JS  /  FIREBASE</text></g>
+<text class="in" style="animation-delay:0.4s" x="690" y="88" font-size="13.5" font-weight="600" fill="#94A3B8" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Enterprise web suite and React Native app for strength programs:</text><text class="in" style="animation-delay:0.52s" x="690" y="113" font-size="13.5" font-weight="600" fill="#94A3B8" font-family="'Segoe UI',Helvetica,Arial,sans-serif">workout logging, athlete progress dashboards and low-latency</text><text class="in" style="animation-delay:0.64s" x="690" y="138" font-size="13.5" font-weight="600" fill="#94A3B8" font-family="'Segoe UI',Helvetica,Arial,sans-serif">video workouts with offline caching.</text>
+<g class="in" style="animation-delay:.8s"><text x="692" y="186" font-size="13" font-weight="800" letter-spacing="4" fill="#F8FAFC" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">OPEN REPO</text>
+<g class="ar"><text x="812" y="187" font-size="17" font-weight="900" fill="#A3E635" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">→</text></g></g>
+<g class="tg"><polygon points="914,0 1200,0 1200,34 892,34" fill="#A3E635"/>
+<text x="928" y="22" font-size="12" font-weight="800" letter-spacing="2" fill="#0C0C0E" font-family="'JetBrains Mono',Consolas,'Courier New',monospace">LIVE · WEB + PLAY STORE</text></g>
+<g class="sw"><polygon points="22,224 300,224 288,230 10,230" fill="#A3E635"/></g>
+</svg>
